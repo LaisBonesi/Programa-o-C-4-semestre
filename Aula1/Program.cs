@@ -37,6 +37,9 @@ namespace Aula1
 
                 switch (opcao)
                 {
+
+                    // EXERCICIO DO LOOP 
+
                     case 0:
 
                         string senha = "123456";
@@ -57,6 +60,8 @@ namespace Aula1
                         break;
 
                     case 1:
+
+                        //EXERCICIO CONDICOES E ARRAY
 
                         int codigo, quantidade;
                         double preco = 0.0;
@@ -104,6 +109,8 @@ namespace Aula1
                         break;
 
                     case 2:
+
+                        //EXERCICIO DAS VARIAVEIS
 
                         double PI = 3.141459;
                         double raio, area = 0.0;

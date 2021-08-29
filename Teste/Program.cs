@@ -6,7 +6,7 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            //EXERCICIO PARA CONVERTER DADOS PARA UM VALOR INTEIRO
+            //EXERCICIO (DE EXCEPTION) PARA CONVERTER DADOS PARA UM VALOR INTEIRO
             double valor;
 
             try
