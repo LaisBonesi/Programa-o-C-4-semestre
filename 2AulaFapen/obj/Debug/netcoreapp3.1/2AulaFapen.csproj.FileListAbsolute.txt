@@ -1,0 +1,13 @@
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.csproj.AssemblyReference.cache
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.AssemblyInfoInputs.cache
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.AssemblyInfo.cs
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.csproj.CoreCompileInputs.cache
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.exe
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.deps.json
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.runtimeconfig.json
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.runtimeconfig.dev.json
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.dll
+C:\Users\laisb\source\repos\LLP\2AulaFapen\bin\Debug\netcoreapp3.1\2AulaFapen.pdb
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.dll
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.pdb
+C:\Users\laisb\source\repos\LLP\2AulaFapen\obj\Debug\netcoreapp3.1\2AulaFapen.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\laisb\source\repos\LLP\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.AssemblyReference.cache
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\laisb\source\repos\LLP\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache

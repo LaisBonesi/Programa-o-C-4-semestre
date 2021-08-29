@@ -1,0 +1,13 @@
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.exe
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.deps.json
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.runtimeconfig.json
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.runtimeconfig.dev.json
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.dll
+C:\Users\laisb\source\repos\LLP\Diretorio\bin\Debug\netcoreapp3.1\Diretorio.pdb
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.csproj.AssemblyReference.cache
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.AssemblyInfoInputs.cache
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.AssemblyInfo.cs
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.csproj.CoreCompileInputs.cache
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.dll
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.pdb
+C:\Users\laisb\source\repos\LLP\Diretorio\obj\Debug\netcoreapp3.1\Diretorio.genruntimeconfig.cache
